@@ -1,4 +1,4 @@
-# pdurosario-161-Fundus
+﻿# pdurosario-161-Fundus
 
 # Descripción
 Una aplicación conocer las fundaciones de la localidad de la Candelaria y poder donar y realizar voluntariados
@@ -16,3 +16,6 @@ Fundus
 - Login
 - Agendar voluntariado
 - Donación
+
+
+esta es una prueba de git
